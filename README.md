@@ -1,9 +1,5 @@
 How to Use (Step-by-Step)
 
-Save the scriptBashnano bypass_403.sh
-
-# Paste the code above → Ctrl+X → Y → Enter
-
 chmod +x bypass_403.sh
 
 Run dirsearch first (if you haven't)Bashdirsearch -u https://techport.nasa.gov -e * --output dirsearch_results.txt
