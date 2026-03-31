@@ -13,7 +13,7 @@ Optional flags
 
 -t 15 → set timeout to 15 seconds (default = 10)
 
-Example with custom timeout:Bash./bypass_403.sh -u https://techport.nasa.gov -e dirsearch_results.txt -t 20
+Example with custom timeout:Bash./bypass_403.sh -u https://url.com -e dirsearch_results.txt -t 20
 
 
 <img width="1016" height="463" alt="403-2" src="https://github.com/user-attachments/assets/2c3d7f44-b36a-45b0-9c85-33a9bbb20842" />
