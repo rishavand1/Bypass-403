@@ -2,9 +2,9 @@ How to Use (Step-by-Step)
 
 chmod +x bypass_403.sh
 
-Run dirsearch first (if you haven't)Bashdirsearch -u https://techport.nasa.gov -e * --output dirsearch_results.txt
+Run dirsearch first (if you haven't)Bashdirsearch -u https://url.com -e * --output dirsearch_results.txt
 
-Run the bypass scriptBash./bypass_403.sh -u https://techport.nasa.gov -e dirsearch_results.txt
+Run the bypass scriptBash./bypass_403.sh -u https://url.com -e dirsearch_results.txt
 
 
 <img width="797" height="572" alt="403-1" src="https://github.com/user-attachments/assets/0e700ae9-e124-4846-b9b6-aa2c8323a2dd" />
